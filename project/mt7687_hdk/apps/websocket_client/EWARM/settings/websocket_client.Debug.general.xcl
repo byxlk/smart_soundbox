@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armJET.dll" 
+
+"\\10.19.22.217\mtk54440\git\dev\gva\out_iar\mt7687_hdk\websocket_client\Debug\Exe\websocket_client.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--flash_loader "\\10.19.22.217\mtk54440\git\dev\gva\project\mt7687_hdk\apps\websocket_client\EWARM\..\..\..\..\..\tools\iar\mt7687\FlashMT7687.board" 
+
+
+
+

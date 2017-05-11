@@ -1,0 +1,28 @@
+var group___bluetooth_common__4 =
+[
+    [ "Define", "group___bluetoothbt__codec__media__events__define.html", "group___bluetoothbt__codec__media__events__define" ],
+    [ "Enum", "group__bt__codec__enum.html", "group__bt__codec__enum" ],
+    [ "Struct", "group___bluetoothbt__codec__struct.html", "group___bluetoothbt__codec__struct" ],
+    [ "bt_codec_a2dp_aws_fill_silence_frame", "group___bluetooth_common__4.html#ga04533b97eeca64a118ca356d976aab3b", null ],
+    [ "bt_codec_a2dp_aws_get_audio_latency", "group___bluetooth_common__4.html#gab78913aa185abcdb2c9393dba462876e", null ],
+    [ "bt_codec_a2dp_aws_get_clock_skew_status", "group___bluetooth_common__4.html#ga80371bb1719b6a18a9cf9e7053415c6a", null ],
+    [ "bt_codec_a2dp_aws_get_consumed_data_count", "group___bluetooth_common__4.html#gac250d2bdfba236ba7a70172c37fd9636", null ],
+    [ "bt_codec_a2dp_aws_get_silence_frame_information", "group___bluetooth_common__4.html#ga64856491cb0b5186db4204dd6f0d13f7", null ],
+    [ "bt_codec_a2dp_aws_parse_data_information", "group___bluetooth_common__4.html#gaf05a53af43cdc9cfb02b4f090aad1d91", null ],
+    [ "bt_codec_a2dp_aws_set_clock_skew_compensation_value", "group___bluetooth_common__4.html#ga701f74882eab5e2550a06b3a9fa3ce7c", null ],
+    [ "bt_codec_a2dp_aws_set_flag", "group___bluetooth_common__4.html#gae8aaf8506247f1ec8558ba1d69dee7e6", null ],
+    [ "bt_codec_a2dp_aws_set_initial_sync", "group___bluetooth_common__4.html#gadf0b1f608b34adb01fa8393b5038fc8d", null ],
+    [ "bt_codec_a2dp_close", "group___bluetooth_common__4.html#ga3f540a0089e0aff7d2135ae644a99055", null ],
+    [ "bt_codec_a2dp_open", "group___bluetooth_common__4.html#ga7395e365d7b82f679ca641e92102aa29", null ],
+    [ "bt_codec_hfp_close", "group___bluetooth_common__4.html#gafa62669fef659ac518ee77d2b4edf139", null ],
+    [ "bt_codec_hfp_get_mix_stream_out_sample_count", "group___bluetooth_common__4.html#gaacb746f686480c4bd88dae1728474acb", null ],
+    [ "bt_codec_hfp_get_stream_in_sample_count", "group___bluetooth_common__4.html#gacabb2712060c255a7af686c2a873e856", null ],
+    [ "bt_codec_hfp_mix_stream_out", "group___bluetooth_common__4.html#gad54fa658fd2ad9f426906f70ae551574", null ],
+    [ "bt_codec_hfp_open", "group___bluetooth_common__4.html#gaa431001f0fc3911fd207511e5eec8ab4", null ],
+    [ "bt_codec_hfp_read_stream_in", "group___bluetooth_common__4.html#ga291daadd773c6fe90f8ce8b5842a1960", null ],
+    [ "bt_codec_hfp_register_get_stream_in_data_callback", "group___bluetooth_common__4.html#ga119f41a55d6be07d5c7b4213ab77450d", null ],
+    [ "bt_codec_hfp_register_mix_stream_out_data_callback", "group___bluetooth_common__4.html#gad9efd3ac1debd1f75125c18e68e69770", null ],
+    [ "bt_codec_hfp_set_device_path", "group___bluetooth_common__4.html#gae1466fb1929c44be7827a1068310cf15", null ],
+    [ "bt_codec_hfp_unregister_get_stream_in_data_callback", "group___bluetooth_common__4.html#ga3ab72a17847e83fce40f2468d754104b", null ],
+    [ "bt_codec_hfp_unregister_mix_stream_out_data_callback", "group___bluetooth_common__4.html#gadf3cb1eb72748592e09d502a256b0ee0", null ]
+];
